@@ -59,8 +59,8 @@ void draw(){
  ellipse(785, 170, 86, 120); // auris
 line(518, 270, 518, 370); // dedo
 line(534, 284, 534, 375); // dedo2
-fill(245,143,155);
-ellipse(578, 250, 60, 30);
+fill(245,143,155); // rosa
+ellipse(578, 250, 60, 30); // boca
 line(538,242, 610, 256); // boca
 
  
