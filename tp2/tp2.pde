@@ -1,5 +1,5 @@
 // tp recuperatorio del tp2. Zoe Ullua legajo 94705/3. Comision 3 tecno
-// link al video explicativo:
+// link al video explicativo: https://youtu.be/KcISLWvO_k4
 
 
 //  instrucciones: presione la tecla espacio y/o click en el centro de la obra para cambios.
