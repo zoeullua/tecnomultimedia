@@ -1,3 +1,7 @@
+// TP4, COMISION 3. ALUMNA ZOE ULLUA, LEGAJO 94705/3
+// Link al video explicativo:
+
+
 let estado = 1;
 let iniciodeljuego;
 let foto1;
